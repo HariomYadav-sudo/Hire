@@ -1,0 +1,322 @@
+{
+  "users": [
+    {
+      "id": "user-99ig24mv3",
+      "name": "Anya Sharma",
+      "email": "testuser-w3oedk@example.com",
+      "password": "$2a$10$KQSW4s0I9s68mhm6k3pPDuoKren1jtHKi8fGzdWjnFmbV0rFm.vxK",
+      "college": "Indian Institute of Technology",
+      "degree": "B.Tech in Computer Science",
+      "skills": [
+        "React",
+        "Node.js",
+        "Express",
+        "JavaScript"
+      ],
+      "projects": [
+        {
+          "title": "HireHub Mockup",
+          "role": "Full Stack",
+          "description": "Created API services"
+        }
+      ],
+      "achievements": [
+        "Won hackathon 2026"
+      ],
+      "summary": "Results-oriented student studying B.Tech in Computer Science at Indian Institute of Technology. Possesses hands-on experience building web application tools and writing scalable codebase features using React, Node.js, Express, JavaScript. Passionate about solving critical tech challenges and driving user success in backend or frontend roles.",
+      "resumeCompletedPercentage": 100,
+      "createdAt": "2026-06-22T04:43:42.212Z"
+    },
+    {
+      "id": "user-di4ctfpbb",
+      "name": "Hariom Yadav",
+      "email": "imhariom25@gmail.com",
+      "password": "$2a$10$.hk3F/u912nz7.gHxEAZou.JYa3ImfUAXy7VZ7iBPfy7Fn/U4qWYC",
+      "college": "Madan Mohan Malaviya University of Technology",
+      "degree": "B.Tech in Computer Science",
+      "skills": [
+        "React",
+        "TypeScirpt",
+        "Node.js",
+        "Docker",
+        "Kurbdernetes"
+      ],
+      "projects": [
+        {
+          "title": "HireHub",
+          "role": "MERN developer",
+          "description": "Build dashboard ,interships,Resume Studio,Career Copilot,TypeScript (highly requested for frontend roles)\nDocker containerization\nCI/CD pipeline automation (GitHub Actions)\n"
+        }
+      ],
+      "achievements": [
+        "Selected in quailifer round among 1.5lakh"
+      ],
+      "summary": "Results-oriented student studying B.Tech in Computer Science at Madan Mohan Malaviya University of Technology. Possesses hands-on experience building web application tools and writing scalable codebase features using React, TypeScirpt, Node.js, Docker. Passionate about solving critical tech challenges and driving user success in backend or frontend roles.",
+      "resumeCompletedPercentage": 100,
+      "createdAt": "2026-06-22T04:50:19.595Z"
+    },
+    {
+      "id": "user-mzgzglcxs",
+      "name": "Test Student",
+      "email": "student@example.com",
+      "password": "$2a$10$/Xig60etpno0QAzgRcjK1etUX/CTiAxrop1koRXv2LqgyWSYrXKgK",
+      "college": "",
+      "degree": "",
+      "skills": [],
+      "projects": [],
+      "achievements": [],
+      "summary": "",
+      "resumeCompletedPercentage": 0,
+      "createdAt": "2026-06-22T04:53:20.742Z"
+    },
+    {
+      "id": "user-wg4f2pqo3",
+      "name": "Anya Sharma",
+      "email": "testuser-spx09c@example.com",
+      "password": "$2a$10$XuMkGBPVbqROIs.ivncS4ea2vH81Rnu2STpnwiNqtCB/ZpwBxiWV2",
+      "college": "Indian Institute of Technology",
+      "degree": "B.Tech in Computer Science",
+      "skills": [
+        "React",
+        "Node.js",
+        "Express",
+        "JavaScript"
+      ],
+      "projects": [
+        {
+          "title": "HireHub Mockup",
+          "role": "Full Stack",
+          "description": "Created API services"
+        }
+      ],
+      "achievements": [
+        "Won hackathon 2026"
+      ],
+      "summary": "Results-oriented student studying B.Tech in Computer Science at Indian Institute of Technology. Possesses hands-on experience building web application tools and writing scalable codebase features using React, Node.js, Express, JavaScript. Passionate about solving critical tech challenges and driving user success in backend or frontend roles.",
+      "resumeCompletedPercentage": 100,
+      "createdAt": "2026-06-22T05:22:00.730Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-uqsjfitft",
+      "userId": "user-99ig24mv3",
+      "internshipId": "intern-001",
+      "status": "Applied",
+      "appliedAt": "2026-06-22T04:43:42.381Z"
+    },
+    {
+      "id": "app-q2i5qf780",
+      "userId": "user-di4ctfpbb",
+      "internshipId": "intern-001",
+      "status": "Applied",
+      "appliedAt": "2026-06-22T04:56:33.635Z"
+    },
+    {
+      "id": "app-nt7uykpk2",
+      "userId": "user-di4ctfpbb",
+      "internshipId": "intern-002",
+      "status": "Applied",
+      "appliedAt": "2026-06-22T04:56:44.833Z"
+    },
+    {
+      "id": "app-xpjfzwpdv",
+      "userId": "user-wg4f2pqo3",
+      "internshipId": "intern-001",
+      "status": "Applied",
+      "appliedAt": "2026-06-22T05:22:00.845Z"
+    }
+  ],
+  "savedInternships": [
+    {
+      "id": "save-rqkmil17b",
+      "userId": "user-99ig24mv3",
+      "internshipId": "intern-002",
+      "savedAt": "2026-06-22T04:43:42.386Z"
+    },
+    {
+      "id": "save-e2fc54nom",
+      "userId": "user-wg4f2pqo3",
+      "internshipId": "intern-002",
+      "savedAt": "2026-06-22T05:22:00.847Z"
+    }
+  ],
+  "internships": [
+    {
+      "id": "intern-001",
+      "role": "Frontend Developer Intern",
+      "company": "Vercel India",
+      "logo": "vercel",
+      "location": "Bengaluru · Hybrid",
+      "duration": "6 Months",
+      "stipend": "₹45,000 / mo",
+      "description": "Join the Vercel Frontend Platform team to build next-generation developer tooling and fast, responsive web application features using React and Next.js.",
+      "requirements": [
+        "Strong understanding of React, JavaScript/TypeScript, and modern CSS layout techniques.",
+        "Familiarity with web performance optimization, core web vitals, and git workflow.",
+        "Previous project portfolio demonstrating clean design and responsive components."
+      ],
+      "skills": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "TailwindCSS",
+        "Git"
+      ]
+    },
+    {
+      "id": "intern-002",
+      "role": "Software Engineering Intern (Backend)",
+      "company": "Stripe",
+      "logo": "stripe",
+      "location": "Bengaluru · Hybrid",
+      "duration": "6 Months",
+      "stipend": "₹60,000 / mo",
+      "description": "Work on the core payment processing backend pipelines, API infrastructure, and scale secure distributed systems that handle millions of transactions per day.",
+      "requirements": [
+        "Experience in designing RESTful APIs in Node.js, Go, or Python.",
+        "Solid knowledge of databases (PostgreSQL/MySQL) and SQL query construction.",
+        "Strong algorithms, data structures, and system design fundamentals."
+      ],
+      "skills": [
+        "Node.js",
+        "Go",
+        "PostgreSQL",
+        "REST APIs",
+        "System Design"
+      ]
+    },
+    {
+      "id": "intern-003",
+      "role": "Product Design Intern",
+      "company": "Linear",
+      "logo": "linear",
+      "location": "Remote",
+      "duration": "3 Months",
+      "stipend": "₹50,000 / mo",
+      "description": "Collaborate closely with product and engineering teams to design clean, high-performance web tool layouts, micro-interactions, and beautiful dark-themed SaaS interfaces.",
+      "requirements": [
+        "Excellent visual design skills and user flow wireframing inside Figma.",
+        "Strong understanding of design systems, typography, layout grid, and contrast rules.",
+        "Portfolio showcasing Web App designs and pixel-perfect attention to detail."
+      ],
+      "skills": [
+        "Figma",
+        "UI/UX",
+        "Product Design",
+        "Design Systems",
+        "Prototyping"
+      ]
+    },
+    {
+      "id": "intern-004",
+      "role": "AI Engineer Intern",
+      "company": "Perplexity AI",
+      "logo": "perplexity",
+      "location": "Remote",
+      "duration": "6 Months",
+      "stipend": "₹75,000 / mo",
+      "description": "Design and build production workflows utilizing Large Language Models (LLMs), prompt engineering optimization, vector databases, and semantic search queries.",
+      "requirements": [
+        "Experience calling API endpoints (Gemini, OpenAI) and writing custom prompts.",
+        "Familiarity with vector embeddings, indexing, and retrieval methods (RAG).",
+        "Proficiency in Python, Node.js, and API development."
+      ],
+      "skills": [
+        "Python",
+        "LLMs",
+        "RAG",
+        "Gemini API",
+        "Vector Databases"
+      ]
+    },
+    {
+      "id": "intern-005",
+      "role": "React Native Developer Intern",
+      "company": "Notion",
+      "logo": "notion",
+      "location": "Bengaluru · On-site",
+      "duration": "6 Months",
+      "stipend": "₹40,000 / mo",
+      "description": "Help craft the future of offline-first mobile workspaces, rich-text editor components, and smooth animations using React Native for iOS and Android.",
+      "requirements": [
+        "Basic experience building and deploying mobile applications with React Native.",
+        "Solid understanding of JavaScript/TypeScript, React hooks, and state management.",
+        "Understanding of mobile UI differences, performance profiles, and testing tools."
+      ],
+      "skills": [
+        "React Native",
+        "TypeScript",
+        "Redux",
+        "Mobile UI",
+        "iOS & Android"
+      ]
+    },
+    {
+      "id": "intern-006",
+      "role": "DevOps & Cloud Engineer Intern",
+      "company": "Supabase",
+      "logo": "supabase",
+      "location": "Remote",
+      "duration": "3 Months",
+      "stipend": "₹45,000 / mo",
+      "description": "Work with our Cloud Operations team to improve continuous deployment pipelines, maintain Kubernetes infrastructure, and build automated monitoring metrics.",
+      "requirements": [
+        "Familiarity with Docker containerization, Dockerfiles, and compose configurations.",
+        "Understanding of CI/CD concepts (GitHub Actions, GitLab CI).",
+        "Familiarity with AWS, GCP, or fly.io deployment options."
+      ],
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "id": "intern-007",
+      "role": "AI Product Manager Intern",
+      "company": "Linear",
+      "logo": "linear",
+      "location": "Bengaluru · Hybrid",
+      "duration": "6 Months",
+      "stipend": "₹35,000 / mo",
+      "description": "Drive product specifications, research user needs around AI assistance tools, analyze engagement telemetry, and collaborate with engineering on sprint scopes.",
+      "requirements": [
+        "Exceptional communication skills and writing skills (PRDs, wireframes).",
+        "Strong analytical ability, SQL querying knowledge, and user empathy.",
+        "Understanding of Agile framework and developer workflow tools."
+      ],
+      "skills": [
+        "Agile",
+        "PRDs",
+        "User Research",
+        "Analytics",
+        "SQL"
+      ]
+    },
+    {
+      "id": "intern-008",
+      "role": "Data Analyst Intern",
+      "company": "Stripe",
+      "logo": "stripe",
+      "location": "Remote",
+      "duration": "3 Months",
+      "stipend": "₹40,000 / mo",
+      "description": "Uncover hidden insights, design dashboards for product operations, and build automated SQL data reports to optimize business workflows.",
+      "requirements": [
+        "Strong proficiency in writing advanced SQL queries (joins, window functions).",
+        "Familiarity with Python data libraries (Pandas, NumPy) and data visualization.",
+        "Ability to translate unstructured data into clear business insights."
+      ],
+      "skills": [
+        "SQL",
+        "Python",
+        "Pandas",
+        "Tableau",
+        "Data Visualization"
+      ]
+    }
+  ]
+}
